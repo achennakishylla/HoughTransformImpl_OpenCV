@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	// Date: 06/10/2020
+	// Date: 06/10/2020 change
 	//Initialize directory
 	std::string inputDirectory = "C:\\Users\\achen\\Desktop\\Spring 2020\\Master's Thesis\\Code\\Hough Transform Results\\Dataset";
 	std::string outputDirectory = "C:\\Users\\achen\\Desktop\\Spring 2020\\Master's Thesis\\Code\\Hough Transform Results\\Results\\5_line_detection";
